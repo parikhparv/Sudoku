@@ -1,4 +1,5 @@
 # Sudoku
+# Overview
 A Java-based Sudoku puzzle solver that automatically finds a valid solution to any solvable 9×9 Sudoku grid. It uses recursive backtracking, an algorithmic approach that tries possible values in empty cells, checks constraints, and backtracks when conflicts arise. The solver efficiently tracks used numbers using boolean arrays for rows, columns, and subgrids, allowing rapid constraint checking during recursion.
 
 # Features
