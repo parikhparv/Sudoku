@@ -4,10 +4,6 @@
 * Implementation of a class that represents a Sudoku puzzle and solves
 * it using recursive backtracking.
 *
-* Computer Science 112, Boston University
-*
-* your name: Parv Parikh (pparikh1@bu.edu)
-* partner's name: Arsh Sharma (arshsh@bu.edu)
 */
 
 
@@ -242,3 +238,4 @@ public class Sudoku {
        puzzle.printGrid(); 
    }   
 }
+
